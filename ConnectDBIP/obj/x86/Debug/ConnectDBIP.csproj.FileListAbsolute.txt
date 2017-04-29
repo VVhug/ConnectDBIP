@@ -1,0 +1,20 @@
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\obj\x86\Debug\ConnectDBIP.csprojResolveAssemblyReference.cache
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\obj\x86\Debug\ConnectDBIP.Form1.resources
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\obj\x86\Debug\ConnectDBIP.Properties.Resources.resources
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\obj\x86\Debug\ConnectDBIP.csproj.GenerateResource.Cache
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\bin\Debug\ConnectDBIP.exe
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\bin\Debug\ConnectDBIP.pdb
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\bin\Debug\FluentData.dll
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\obj\x86\Debug\ConnectDBIP.exe
+C:\Users\xiao fming\AppData\Local\Temporary Projects\ConnectDBIP\obj\x86\Debug\ConnectDBIP.pdb
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\obj\x86\Debug\ConnectDBIP.exe
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\obj\x86\Debug\ConnectDBIP.pdb
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\bin\Debug\ConnectDBIP.exe
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\bin\Debug\ConnectDBIP.pdb
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\bin\Debug\FluentData.dll
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\obj\x86\Debug\ConnectDBIP.csprojResolveAssemblyReference.cache
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\obj\x86\Debug\ConnectDBIP.Form1.resources
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\obj\x86\Debug\ConnectDBIP.Properties.Resources.resources
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\obj\x86\Debug\ConnectDBIP.csproj.GenerateResource.Cache
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\bin\Debug\DevComponents.DotNetBar2.dll
+F:\C#编程\窗体设计\ConnectDBIP\ConnectDBIP\bin\Debug\DevComponents.DotNetBar2.xml
